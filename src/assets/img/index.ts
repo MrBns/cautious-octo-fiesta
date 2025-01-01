@@ -1,0 +1,12 @@
+export { default as IMG_BOTTLES_OF_YAMMY } from "./bottles_of_yammy.webp";
+export { default as IMG_EGGS_IN_BOWL } from "./eggs_in_bowl.webp";
+export { default as IMG_HEADER_BG } from "./header_bg.webp";
+export { default as IMG_JAMMY_GOODNESS } from "./jammy_goodness.webp";
+export { default as IMG_NATURALLY_SWEET } from "./naturally_sweet.webp";
+export { default as IMG_NATURES_SWEETNESS } from "./natures_sweetness.webp";
+export { default as IMG_NUTTY_PERFECTION } from "./nutty_perfection.webp";
+export { default as IMG_SMOOTH_CREAMY } from "./smooth_creamy.webp";
+export { default as IMG_SMOOTHEST_YAMMY_BISKITS } from "./smoothest_yammy_biskits.webp";
+export { default as IMG_TREE_LOGO } from "./tree-logo.webp";
+export { default as IMG_VIBRANT_FLAVOUR } from "./vibrant_flavour.webp";
+export { default as IMG_VIBRANT_HUES } from "./vibrant_hues.webp";
