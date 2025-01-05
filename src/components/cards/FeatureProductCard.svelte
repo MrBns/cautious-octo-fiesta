@@ -16,7 +16,7 @@
 	<div class="">
 		<img src={data.img} alt="" class="rounded-xl" />
 	</div>
-	<div class="mt-9 text-center">
+	<div class="mt-2 text-center lg:mt-9">
 		<h3 class="text-[23px]/[28px] text-[#6c696b]">{data.title}</h3>
 		<p class="text-sm text-[#b3afb0]">{data.subtitle}</p>
 	</div>

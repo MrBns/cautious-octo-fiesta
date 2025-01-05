@@ -13,7 +13,7 @@
 			<div class="logo">
 				<p class="bold text-xl">Logo</p>
 			</div>
-			<div class="nav-links">
+			<div class="nav-links hidden md:block">
 				<ul class="flex">
 					{@render navLink('Home', '/')}
 					{@render navLink('About', '/')}
